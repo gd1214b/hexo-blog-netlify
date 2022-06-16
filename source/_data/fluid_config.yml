@@ -1,45 +1,37 @@
 navbar:
-  blog_title: "演示站点"
+  blog_title: gd1214b's blog
   ground_glass:
     enable: true
 index:
-  banner_img: /images/uploads/background.webp
+  banner_img: /
   banner_img_height: 100
   slogan:
-    text: "这是一个演示博客,可以登陆后台实际测试效果"
+    text: 念念不忘，必有回响
 post:
-  banner_img: /images/uploads/mmexport1602581319886.webp
+  banner_img: /
   banner_img_height: 70
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: /
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: /
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: /
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: /
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: /
   banner_img_height: 80
   subtitle: null
-  avatar: /img/avatar.png
-  name: "Fluid"
-  intro: "An elegant theme for Hexo"
+  avatar: /
+  name: gd1214b's blog
+  intro: 念念不忘，必有回响
 links:
-  banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
+  banner_img: /
   banner_img_height: 80
   subtitle: null
-  items:
-    - title: Fluid Repo
-      intro: 主题 GitHub 仓库
-      link: https://github.com/fluid-dev/hexo-theme-fluid
-      avatar: /img/favicon.png
-    - title: 暮雨千泷
-      intro: 青天白日梦神仙
-      link: https://www.myql.xyz
-      avatar: https://cdn.jsdelivr.net/gh/leicancun/img@main/images/avatar.webp
+  items: []
