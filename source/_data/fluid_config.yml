@@ -3,35 +3,39 @@ navbar:
   ground_glass:
     enable: true
 index:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 100
   slogan:
     text: 念念不忘，必有回响
 post:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 70
   default_index_img: /
 archive:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 80
   subtitle: null
-  avatar: /
+  avatar: /images/uploads/avatar.png
   name: gd1214b's blog
   intro: 念念不忘，必有回响
 links:
-  banner_img: /
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 80
   subtitle: null
-  items: []
+  items:
+    - title: gd1214b's blog
+      intro: 念念不忘，必有回响
+      link: https://blog.gd1214b.icu/
+      avatar: /images/uploads/avatar.png
