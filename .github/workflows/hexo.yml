@@ -28,6 +28,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # 无需修改
-          publish_dir: ./  # hexo generate 生成的博客文件默认存放在 /public 目录下
-          publish_branch: public  # 存放展示的博客文件的分支
+          github_token: ${{ secrets.GITHUB_TOKEN }} 
+          publish_dir: ./  
+          publish_branch: public  
