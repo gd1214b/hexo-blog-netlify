@@ -2,9 +2,8 @@ name: Hexo Blog CI & CD
 
 on:
   push:
-    branches:
-      - source  # 存放 Hexo 源文件的分支
-
+    branches:  [ main ]
+     
 jobs:
   pages:
     runs-on: ubuntu-latest
